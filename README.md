@@ -1,5 +1,7 @@
 # coincheck-ts
 
+## usage
+`npm install coincheck-ts`
 
 ## Supported API
 - `/api/accounts/balance`
